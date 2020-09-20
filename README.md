@@ -1,0 +1,3 @@
+# MINE SWEEPER GAME.
+## BASIC ARCHITECTURE USING JS.
+## CODEPEN LINK: https://codepen.io/khush611/pen/XWdyrpw
